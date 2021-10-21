@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": 17,
+      "name": "vannila",
+      "price": 6,
+      "active": true
+    },
+    {
+      "id": "JB3Sypo"
+    },
+    {
+      "id": "vFIUyvW"
+    },
+    {
+      "id": "QJhDeJ9"
+    },
+    {
+      "id": "h4-eBGf"
+    },
+    {
+      "id": "qyHWZkD"
+    },
+    {
+      "name": "454",
+      "price": "1",
+      "id": "112"
+    },
+    {
+      "id": "9nRG8_N"
+    },
+    {
+      "id": "miX8oyr"
+    },
+    {
+      "id": "NLOBUvT"
+    },
+    {
+      "id": "CH4pZpU"
+    },
+    {
+      "id": "T6jcO5q"
+    },
+    {
+      "id": "Pdj--l2"
+    },
+    {
+      "id": "K7mnazk"
+    },
+    {
+      "name": "dairymilk",
+      "price": "1200",
+      "id": "152"
+    }
+  ]
+}
